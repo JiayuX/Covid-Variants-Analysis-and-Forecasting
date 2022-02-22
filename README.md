@@ -5,7 +5,7 @@ The dataset is from [Kaggle](https://www.kaggle.com/yamqwe/omicron-covid19-varia
 
 We fistly load in the data and analyze it via data visualisation. For example, we can know the percentage of the cases of each variant worldwide. We can also see their conntry distribution and time evolution.
 
-<img src="https://raw.githubusercontent.com/JiayuX/Covid-Variants-Analysis-and-Forecasting/main/pie.png" width="600"/>
+<img src="https://raw.githubusercontent.com/JiayuX/Covid-Variants-Analysis-and-Forecasting/main/pi.png" width="600"/>
 
 <img src="https://raw.githubusercontent.com/JiayuX/Covid-Variants-Analysis-and-Forecasting/main/bar.png" width="800"/>
 
